@@ -4,6 +4,6 @@ A Flutter project that consists of.. notes. you can edit, make your own, and do 
 
 ## H2D -- How 2 Download?
 
-Releases Tab
-./ or compile
+Releases Tab  <br />
+ ./ or compile
 
