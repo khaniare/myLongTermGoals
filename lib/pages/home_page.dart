@@ -18,11 +18,6 @@ class _HomePageState extends State<HomePage> {
         title: Text('My Notes' ),
         elevation: 0, 
       ),
-      body: ListView(
-        children: [
-          ToDoTile(),
-        ]
-      )
     );
   }
 }
