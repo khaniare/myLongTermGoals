@@ -15,16 +15,17 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: Colors.green[200],
       appBar: AppBar(
-        title: Text('My Notes' ),
+        title: Text('My Long Term Goals' ),
         elevation: 0, 
       ),
 body: ListView.builder(
-        itemCount: 4,
-        itemBuilder: (context, index) {
-          return ToDoTile();
-        },
-      )
+    itemCount: 1,
+     itemBuilder: (context, index) {
+       return const ToDoTile();
+       },
 
-      );
+  )
+    );
   }
+  
 }

@@ -16,15 +16,18 @@ Widget build(BuildContext context) {
         color: Colors.green,
         borderRadius: BorderRadius.circular(12),
       ),
-      child: Row(
+child: Column(
         children: [
-          Text("Do something!"),
+          Text("Learn Flutter!"),
+          Text("Learn Languages."),
+          
         ],
-
-        
       ),
-    ),
-  );
+
+        ),
+  
+    );
+
 }
 }
 
