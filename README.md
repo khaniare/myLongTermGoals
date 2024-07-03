@@ -1,16 +1,9 @@
 # myapp
 
-A new Flutter project.
+A Flutter project that consists of.. notes. you can edit, make your own, and do whatever. All notes wil be saves, offline or online, still saved.
 
-## Getting Started
+## H2D -- How 2 Download?
 
-This project is a starting point for a Flutter application.
+Releases Tab
+./ or compile
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
